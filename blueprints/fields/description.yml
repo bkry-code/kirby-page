@@ -1,0 +1,4 @@
+label: Description
+type: textarea
+buttons: false
+help: In a few words, explain what this page is about.

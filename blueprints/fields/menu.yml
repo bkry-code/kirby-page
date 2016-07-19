@@ -1,0 +1,4 @@
+label: Menu Label
+type: text
+width: 1/3
+help: Text displayed in your site navigation.

@@ -1,0 +1,8 @@
+title: Page
+pages: true
+files: true
+fields:
+  title: title
+  menu:  menu
+  description: description
+  text: text

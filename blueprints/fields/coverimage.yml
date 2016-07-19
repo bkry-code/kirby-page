@@ -1,0 +1,10 @@
+label: Cover Image
+type: selector
+mode: multiple
+sort: width
+flip: true
+size: 3
+filter: /\.((png)|(jpe?g)|(gif)|(svg)|(webp))/i
+types:
+  - image
+help: Select one or several images that should be displayed in the head of your page (requires support by your theme).
