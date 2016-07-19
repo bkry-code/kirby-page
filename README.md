@@ -2,6 +2,8 @@
 
 `Kirby Page` is a plugin for [Kirby CMS](https://getkirby.com) that provides opinionated defaults for commonly used blueprint fields. Most of these fields are used as a dependency in other projects like the [`Kirby Blog`](https://github.com/dweidner/kirby-blog.git) plugin which provides a custom post type for blog articles.
 
+**NOTE:** This plugin is currently provided in a ALPHA-version as a proof of concept. The core functionality of this plugin might change until the final release.
+
 ## Requirements
 
 - Kirby 2.3.1+

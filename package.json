@@ -5,7 +5,7 @@
     "kirby"
   ],
   "author": "Daniel Weidner <hallo@danielweidner.de>",
-  "version": "1.0.0-beta",
+  "version": "1.0.0-alpha",
   "license": "MIT",
   "private": true,
   "type": "kirby-plugin",
